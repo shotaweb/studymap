@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EAEI,YAAY,EACb","file":"style.css","sourcesContent":[".article {\n  h4 {\n    color: #222;;\n  }\n}\n"]}
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACC,eAAe,EAUf;EAXD;IAGC,eAAe;IACf,mBAAmB,EAMlB;IAVF;MAME,sBAAsB;MACtB,YAAW;MACX,kBAAkB,EAClB","file":"style.css","sourcesContent":[".global-navi {\n\tmargin: 0 auto;\n\tul {\n\tdisplay: block;\n\ttext-align: center;\n\tli {\n\t\tdisplay: inline-block;\n\t\tfloat:left;\n\t\tmargin-left: 40px;\n\t}\n\t}\n}"]}

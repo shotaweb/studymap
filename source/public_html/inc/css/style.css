@@ -1,4 +1,11 @@
-.article h4 {
-  color: #222; }
+.global-navi {
+  margin: 0 auto; }
+  .global-navi ul {
+    display: block;
+    text-align: center; }
+    .global-navi ul li {
+      display: inline-block;
+      float: left;
+      margin-left: 40px; }
 
 /*# sourceMappingURL=style.css.map */

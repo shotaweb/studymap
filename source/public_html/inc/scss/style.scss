@@ -1,5 +1,12 @@
-.article {
-  h4 {
-    color: #222;;
-  }
+.global-navi {
+	margin: 0 auto;
+	ul {
+	display: block;
+	text-align: center;
+	li {
+		display: inline-block;
+		float:left;
+		margin-left: 40px;
+	}
+	}
 }
